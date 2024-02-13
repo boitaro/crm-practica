@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "pedro",
+      "empresa": "chanchos",
+      "email": "prodeuccioneserror404@gmail.com",
+      "telefono": "5538882875",
+      "notas": "notas",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Josue",
+      "empresa": "Codigo Con Juan",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "asdasd",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    }
+  ]
+}
